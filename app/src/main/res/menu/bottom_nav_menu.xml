@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/hourglass"
+        android:title="HOME" />
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/clipboardverificationsymbol"
+        android:title="TEST" />
+
+    <item
+        android:id="@+id/navigation_analysis"
+        android:icon="@drawable/analytics"
+        android:title="ANALYSIS" />
+    <item
+        android:id="@+id/navigation_doubts"
+        android:icon="@drawable/qa"
+        android:title="DOUBTS" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/user"
+        android:title="PROFILE" />
+
+</menu>
